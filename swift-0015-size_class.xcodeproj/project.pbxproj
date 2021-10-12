@@ -296,6 +296,7 @@
 				DEVELOPMENT_TEAM = K328B98U3F;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "swift-0015-size_class/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "size-class";
 				INFOPLIST_KEY_CFBundleExecutable = "swift-0015-size_class";
 				INFOPLIST_KEY_CFBundleName = "swift-0015-size_class";
 				INFOPLIST_KEY_CFBundleVersion = 1;
@@ -329,6 +330,7 @@
 				DEVELOPMENT_TEAM = K328B98U3F;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "swift-0015-size_class/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "size-class";
 				INFOPLIST_KEY_CFBundleExecutable = "swift-0015-size_class";
 				INFOPLIST_KEY_CFBundleName = "swift-0015-size_class";
 				INFOPLIST_KEY_CFBundleVersion = 1;
